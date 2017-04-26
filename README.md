@@ -242,3 +242,4 @@ Feel free to open PR's, issues, or contact me with any questions/concerns. This 
 
 [npm-url]: https://www.npmjs.com/package/aws-lambda-toolkit
 [npm-image]: https://img.shields.io/npm/v/aws-lambda-toolkit.svg?style=flat-square
+
